@@ -6,7 +6,7 @@
 [Instagram](https://instagram.com/slivkanamore?igshid=YmMyMTA2M2Y=) 
 ## **About me:**
 I’m currently working several small web projects (as part of my course).My goal is to learn everything new and exciting. I can spend a lot of time doing what interests me. I want to get knowledge and skills that will be enough for employment in a company.
-Examples of my work: 
+**Examples of my work:**
 [Meditation](https://meditation-snv.glitch.me) \
 [New Year](https://santa-coming-snv.glitch.me) \
 [Weather](https://weather-snv.glitch.me) 
